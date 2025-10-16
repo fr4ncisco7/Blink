@@ -1,7 +1,7 @@
 # Atividade: "Blink" com LED Interno do Arduino
-# Atividade: "Blink" com LED Interno do Arduino
 
-## Objetivo
+
+
 ## Objetivo
 Esta documentação visa registrar a conclusão da **Entrega Parte 1** da atividade proposta, que consiste na instalação da Arduino IDE e na implementação do programa "Blink" utilizando o LED interno da placa Arduino, conforme o roteiro de autoestudos.
 
@@ -12,7 +12,6 @@ O programa deve fazer o LED interno acender, aguardar um tempo $X$, apagar, agua
 2.  Placa Arduino (modelo utilizado: Arduino Uno).
 3.  Cabo USB para conexão da placa ao computador.
 
-## Código-Fonte (Sketch)
 ## Código-Fonte (Sketch)
 
 O sketch abaixo foi carregado na placa para realizar a função "Blink". O tempo de acendimento e de espera (delay) foi configurado para **1000 milissegundos (1 segundo)**.
